@@ -21,8 +21,8 @@ export default function Inquery() {
         <form>
             <input type="text" placeholder='Subject' value={subject} onChange={(e)=>setSubject(e.target.value)}/><br/>
             <textarea placeholder='Your Query' value={message} onChange={(e)=>setMessage(e.target.value)}/>
-        </form>
             <button className="btn btn-primary" onClick={SubmitForm}>Submit</button>
+        </form>
 
     </div>
 </div>
@@ -63,7 +63,7 @@ const Wrapper = styled.main`
  scale: 1.5;
 }
 input{
-    width: 100%;
+    width: 500px;
     padding: 12px 20px;
   box-sizing: border-box;
   border: 2px solid #ccc;
@@ -83,6 +83,17 @@ textarea {
   background-color: #f8f8f8;
   font-size: 16px;
   resize: none;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color: #bda77b;
+    border: none;
+}
+.btn-primary:hover{
+ 
+    background-color: #bda760;
+    
 }
 
 `

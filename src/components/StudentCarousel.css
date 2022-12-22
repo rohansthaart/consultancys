@@ -82,8 +82,8 @@ Variables
   
   /* section */
   .section {
-    width: 90vw;
-    margin: 5rem auto;
+    
+    margin: -1rem auto;
     max-width: var(--max-width);
   }
   

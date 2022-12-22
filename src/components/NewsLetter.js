@@ -19,13 +19,17 @@ function NewsLetter() {
   </Wrapper>
 }
 const Wrapper = styled.main`
- padding:0px;
+ .section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+}
   h3 {
     text-transform: none;
   }
   p {
     line-height: 2;
-    max-width: 45em;
+    max-width: 32em;
     color: var(--clr-grey-5);
   }
   .contact-form {
@@ -39,7 +43,7 @@ const Wrapper = styled.main`
   .submit-btn {
     font-size: 1rem;
     padding: 0.5rem 1rem;
-    border: 1px solid var(--clr-black);
+    border: 1px solid #bda77b;
   }
   .form-input {
     border-right: none;

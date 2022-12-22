@@ -11,7 +11,7 @@ export default function Offers() {
          <p>We believe that Human has pursued the knowledge through education and travelling around the world and in universe. “GSC Private Limited” has envisaged the help and assistance required in this human pursuit and looks forward to providing guidance and information on global opportunities and reputed sources of required education across the world to the young knowledge seekers.
 
 Our mission is to source internationally renowned academic institutions providing modern learning programs leading to bright international careers and guide, help and assist Indian students to gain easy access to such learning opportunities irrespective of gender, caste, creed or economic status.</p>
-<a href="#" class="btnn btn--white btn--animated">Book Free counseling</a>
+<a href="#" className="btnn btn--white btn--animated">Book Free counseling</a>
     </div>
 </div>
 </Wrapper>
