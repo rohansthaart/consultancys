@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/consultancy/static/css/main.83b47eb1.css",
+    "main.js": "/consultancy/static/js/main.912e86ae.js",
+    "static/media/countries.png": "/consultancy/static/media/countries.bc381791f5905ada615f.png",
+    "static/media/logo.svg": "/consultancy/static/media/logo.72785c63b0c5a8dc02e5ccecac7fd403.svg",
+    "index.html": "/consultancy/index.html",
+    "main.83b47eb1.css.map": "/consultancy/static/css/main.83b47eb1.css.map",
+    "main.912e86ae.js.map": "/consultancy/static/js/main.912e86ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b47eb1.css",
+    "static/js/main.912e86ae.js"
+  ]
+}
