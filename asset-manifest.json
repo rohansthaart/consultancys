@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/consultancy/static/css/main.83b47eb1.css",
-    "main.js": "/consultancy/static/js/main.912e86ae.js",
-    "static/media/countries.png": "/consultancy/static/media/countries.bc381791f5905ada615f.png",
-    "static/media/logo.svg": "/consultancy/static/media/logo.72785c63b0c5a8dc02e5ccecac7fd403.svg",
-    "index.html": "/consultancy/index.html",
-    "main.83b47eb1.css.map": "/consultancy/static/css/main.83b47eb1.css.map",
-    "main.912e86ae.js.map": "/consultancy/static/js/main.912e86ae.js.map"
+    "main.css": "/consultancys/static/css/main.641b9d7e.css",
+    "main.js": "/consultancys/static/js/main.852b782e.js",
+    "static/media/countries.png": "/consultancys/static/media/countries.bc381791f5905ada615f.png",
+    "static/media/logo.svg": "/consultancys/static/media/logo.72785c63b0c5a8dc02e5ccecac7fd403.svg",
+    "index.html": "/consultancys/index.html",
+    "main.641b9d7e.css.map": "/consultancys/static/css/main.641b9d7e.css.map",
+    "main.852b782e.js.map": "/consultancys/static/js/main.852b782e.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b47eb1.css",
-    "static/js/main.912e86ae.js"
+    "static/css/main.641b9d7e.css",
+    "static/js/main.852b782e.js"
   ]
 }
